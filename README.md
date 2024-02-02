@@ -17,4 +17,6 @@ Minhas Skills:<br>
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Developer-orange)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
+[![Figma](https://img.shields.io/badge/Figma-Designer-blue)](https://www.figma.com/)
+
 
