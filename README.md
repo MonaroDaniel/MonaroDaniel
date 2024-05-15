@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-Atualmente sou desenvolvedor na Super Mercados Pague Menos.<br>
+Atualmente sou desenvolvedor na Ambipar.<br>
 Trabalhando com Front-End a mais ou menos 2 anos, hoje estou focando na realização de aplicações práticas como Full-Stack.<br>
 Minhas Skills:<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
