@@ -1,8 +1,12 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/0b71c097-fb0b-4c40-b255-39499fe048c0" />
 <br>
-<br>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&height=100&lines=Hello+my+name+is+Daniel)](https://git.io/typing-svg)
+  
+</div>
+
 
 ### Hi there 👋
 
