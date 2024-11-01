@@ -1,32 +1,37 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/0b71c097-fb0b-4c40-b255-39499fe048c0" />
+
 <br>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&height=100&lines=Hello+my+name+is+Daniel)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonaroDaniel&theme=prussian)](https://git.io/streak-stats)
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MonaroDaniel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.4&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true)
   
 </div>
 
+### Main skills:
+<div align="center"> 
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-### Hi there 👋
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/1370475d-0b93-479b-8a82-2199127653d4">
 
-<!--
-**MonaroDaniel/MonaroDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
-Here are some ideas to get you started:
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
--->
-Atualmente sou desenvolvedor na Ambipar.<br>
-Trabalhando com Front-End a mais ou menos 2 anos, hoje estou focando na realização de aplicações práticas como Full-Stack.<br>
-Minhas Skills:<br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Developer-orange)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
-[![Figma](https://img.shields.io/badge/Figma-Designer-blue)](https://www.figma.com/)
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ea95c74f-6431-4586-ae1d-82c518620ec5">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/6ffd2d7c-c296-4629-aad9-aa4eac0ce5cb">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/953f3a35-964d-4cbb-96cd-da04ead27cdc">
+
+</div>
