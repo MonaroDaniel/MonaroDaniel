@@ -13,7 +13,8 @@
 </div>
 
 ### Main skills:
-<div align="center"> 
+<div align="left"> 
+  
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/1370475d-0b93-479b-8a82-2199127653d4">
